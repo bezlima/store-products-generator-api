@@ -1,5 +1,7 @@
 # store-products-generator-api
 
+Gerador de produtos fictícios de um comércio eletrônico, API feita para ser consumida em um front-end para treinamento de implementação.
+
 ## Instalação
 
 Clone o projeto
